@@ -56,4 +56,3 @@ Clique em Add Ingress Rule e adicione a seguinte entrada.
 
 
 
-
